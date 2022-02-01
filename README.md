@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @Gk1694
-- 👀 I’m interested in FullStack Development And Problem Solving With Python
-- you can contact me through my gmail 1694gk@gmail.com
